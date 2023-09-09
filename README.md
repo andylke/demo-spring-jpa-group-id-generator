@@ -1,0 +1,1 @@
+# demo-spring-jpa-id-custom-generator
