@@ -1,1 +1,1 @@
-# demo-spring-jpa-id-custom-generator
+# demo-spring-jpa-group-id-generator
